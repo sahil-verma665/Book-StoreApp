@@ -63,7 +63,7 @@ function Navbar() {
             : ""
         }`}
       >
-        <div className="navbar ">
+        <div className="navbar">
           <div className="navbar-start">
             <div className="dropdown">
               <div
