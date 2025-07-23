@@ -6,6 +6,7 @@ import Signup from "./components/Signup";
 import { Toaster } from "react-hot-toast";
 import { useAuth } from "./context/AuthProvider";
 
+
 function App() {
   const [authUser] = useAuth();
   console.log(authUser);
